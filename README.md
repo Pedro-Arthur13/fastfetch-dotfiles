@@ -1,6 +1,6 @@
 # **Fastfetch Config - Personal Modifications**
 
-<img src="https://64.media.tumblr.com/d22aace17523d77aba9614d392b7cbb1/90da8e238809ec21-a4/s540x810/3c19715e7c6efefe5ba1e7472e64e1bab5b01f37.gif" alt="Fastfetch" width="1050" height="auto"/>
+<img src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" alt="Fastfetch" width="1050" height="auto"/>
 
 > **⚠️ Aviso**: Este repositório contém arquivos do Fastfetch que foram modificados para atender às minhas necessidades pessoais, juntamente com um script adicional para configuração inicial do [Hyprdots](https://github.com/prasanthrangan/hyprdots). Este projeto não é original, apenas uma adaptação e personalização.
 
