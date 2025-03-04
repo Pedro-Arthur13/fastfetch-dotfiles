@@ -14,6 +14,8 @@ elif [[ "$ICON_THEME" == "Tela-circle-dracula" ]]; then
     PNG_FOLDER="${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/pngs/tela-circle-dracula"
 elif [[ "$ICON_THEME" == "Tela-circle-green" ]]; then
     PNG_FOLDER="${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/pngs/tela-circle-green"
+elif [[ "$ICON_THEME" == "BeautyLine" ]]; then
+    PNG_FOLDER="${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/pngs/BeautyLine"
 else
     PNG_FOLDER="${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/pngs/default"
 fi
