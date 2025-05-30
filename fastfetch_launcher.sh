@@ -20,6 +20,8 @@ elif [[ "$ICON_THEME" == "Synth-Wave" ]]; then
     PNG_FOLDER="${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/pngs/rosa"
 elif [[ "$ICON_THEME" == "Rose-Pine" ]]; then
     PNG_FOLDER="${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/pngs/red"
+elif [[ "$ICON_THEME" == "Catppuccin-Latte" ]]; then
+    PNG_FOLDER="${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/pngs/holy"
 else
     PNG_FOLDER="${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/pngs/default"
 fi
